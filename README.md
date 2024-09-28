@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pınar</h1>
 <h3 align="center">A determined software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **C, C#, ASP.Net, .Net Core**
+- 🌱 I’m currently learning **C, Java, Flutter, Dart**
 
 - 💬 Ask me about **anything related to software development and coding,and I'll do my best to share my knowledge!**
 
