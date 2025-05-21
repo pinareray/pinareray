@@ -13,8 +13,6 @@
 </p>
 
 
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
-
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/pinareray" target="_blank">
